@@ -116,7 +116,7 @@ Planned next steps:
 
 ## Author
 
-**Daniel Farid Calvo Ramos**
+**Daniel Farid Calvo Ramos**  
 Data Analytics & Business Intelligence
 
 ## Disclaimer
